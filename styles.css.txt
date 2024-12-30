@@ -1,0 +1,92 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #111;
+    color: white;
+}
+
+header {
+    background-color: #333;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+header .logo img {
+    width: 50px;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+nav ul li {
+    margin: 0 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}
+
+#hero {
+    background: url('images/predator-bg.jpg') no-repeat center center/cover;
+    padding: 100px 0;
+    text-align: center;
+}
+
+#hero .hero-content h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+#hero .hero-content p {
+    font-size: 1.5em;
+}
+
+.cta-button {
+    background-color: #ff9900;
+    color: black;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.cta-button:hover {
+    background-color: #cc7a00;
+}
+
+.section-title {
+    padding: 50px;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul li {
+    margin: 10px 0;
+}
+
+footer {
+    background-color: #333;
+    padding: 20px;
+    text-align: center;
+}
+
+.social-link {
+    text-decoration: none;
+    color: #ff9900;
+    margin: 0 10px;
+}
+
+.social-link:hover {
+    color: white;
+}

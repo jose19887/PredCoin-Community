@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Join the PredCoin Community – The Future of Meme Coins with Predator-Inspired Fun!">
+    <meta name="keywords" content="PredCoin, meme coin, crypto, Predator, crypto community">
+    <meta name="author" content="PredCoin Team">
+    <title>PredCoin Community</title>
+    <link rel="stylesheet" href="styles.css">
+    <!-- Favicon Icon -->
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="images/predcoin-logo.png" alt="PredCoin Logo">
+            </div>
+            <ul class="nav-links">
+                <li><a href="#about">About</a></li>
+                <li><a href="#community">Community</a></li>
+                <li><a href="#roadmap">Roadmap</a></li>
+                <li><a href="#join">Join Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="hero">
+        <div class="hero-content">
+            <h1>Welcome to PredCoin</h1>
+            <p>The future of meme coins, inspired by the legendary Predator franchise. Join the hunt for the next big thing in crypto!</p>
+            <a href="https://t.me/PredCoinCommunity" class="cta-button">Join the Community</a>
+        </div>
+    </section>
+
+    <section id="about">
+        <div class="section-title">
+            <h2>About PredCoin</h2>
+            <p>PredCoin is a fun, community-driven meme coin that draws inspiration from the Predator movie franchise. We aim to create a crypto coin that not only provides entertainment but also has great potential for growth in the meme coin space. Whether you're a crypto enthusiast or a Predator fan, PredCoin is for you!</p>
+        </div>
+    </section>
+
+    <section id="community">
+        <div class="section-title">
+            <h2>The PredCoin Community</h2>
+            <p>Our community is the heart of PredCoin. We believe in the power of collaboration and are building a space where crypto enthusiasts can come together to hunt for new opportunities. Join us on Telegram for exclusive updates, memes, and more!</p>
+            <a href="https://t.me/PredCoinCommunity" class="cta-button">Join the Telegram</a>
+        </div>
+    </section>
+
+    <section id="roadmap">
+        <div class="section-title">
+            <h2>Our Roadmap</h2>
+            <p>We have big plans for PredCoin! Check out our roadmap for the exciting steps we're taking to ensure the success and growth of the community.</p>
+            <ul>
+                <li>Phase 1: Launch of PredCoin</li>
+                <li>Phase 2: Community Building & Social Media Outreach</li>
+                <li>Phase 3: Partnership with Crypto Influencers</li>
+                <li>Phase 4: Future NFT & Merchandise Collaborations</li>
+            </ul>
+        </div>
+    </section>
+
+    <section id="join">
+        <div class="section-title">
+            <h2>Join Us</h2>
+            <p>Ready to become part of the PredCoin mission? Join our Telegram community now to get started and participate in our hunt for success!</p>
+            <a href="https://t.me/PredCoinCommunity" class="cta-button">Join Now</a>
+        </div>
+    </section>
+
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2024 PredCoin. All rights reserved.</p>
+            <p>Follow us on social media for updates:</p>
+            <a href="https://twitter.com/PredCoin" class="social-link">Twitter</a>
+            <a href="https://t.me/PredCoinCommunity" class="social-link">Telegram</a>
+        </div>
+    </footer>
+</body>
+</html>
